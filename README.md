@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Your Name  
+# 👋 Hi, I’m Christian Keith 
 
 Welcome to my GitHub! 🚀  
 I’m a **Information Technology graduate** passionate about **Data Analysis, Software Engineering and Quality Assurance**.  
